@@ -1,0 +1,17 @@
+name: Problem with Icon
+description: If you found an issue with existing icon(s)
+body:
+  - type: textarea
+    attributes:
+      label: What icon(s) are there problems with?
+      description: List out the affected icon filenames.
+      placeholder: "- app1.png\n- app2.png..."
+  - type: checkboxes
+    attributes:
+      label: What themes are affected by this?
+      description: ""
+      options:
+        - label: Latte
+        - label: Frappe
+        - label: Macchiato
+        - label: Mocha

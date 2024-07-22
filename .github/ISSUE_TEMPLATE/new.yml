@@ -1,0 +1,17 @@
+name: New Icon Suggestion
+description: Suggest a new icon to be made
+body:
+  - type: textarea
+    attributes:
+      label: What apps do you want to be added?
+      description: List out the apps. Also mention if the app is android-only.
+      placeholder: "- App 1\n- App 2..."
+  - type: checkboxes
+    attributes:
+      label: What theme do you want this icon for?
+      description: ""
+      options:
+        - label: Latte
+        - label: Frappe
+        - label: Macchiato
+        - label: Mocha

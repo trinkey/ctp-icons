@@ -1,0 +1,8 @@
+name: Meta Issue
+description: A problem with the repository itself, for example a typo.
+body:
+  - type: textarea
+    attributes:
+      label: What is the problem?
+      description: Describe the problem, and also how this should be fixed.
+      placeholder: "The word [...] has a typo..."
