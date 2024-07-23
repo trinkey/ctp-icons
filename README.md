@@ -7,6 +7,19 @@ any noticeable drop in quality.
 these images are licensed under the mit license. i don't claim to own any of the
 logos depicted in any icons
 
+thanks to everyone who's contributed!
+
+<details>
+<summary><a href="https://github.com/BramvdnHeuve">@BramvdnHeuve</a></summary>
+
+* newpipe
+* nextcloud-deck
+* nextcloud
+* spotify
+* subtracks
+* syncthing
+</details>
+
 ## i want an icon but it doesn't exist
 submit [an issue](issues)
 
